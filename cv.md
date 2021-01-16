@@ -26,7 +26,7 @@ At the moment, i want to learn React, but first of all, i need to upgrade my Jav
 
 
 # English:
-I've certificate "The New Cambridge English Course Intermediate" (B1). I do study English, sometimes.
+I've certificate "The New Cambridge English Course Intermediate" (B1). I do study English, sometimes.  
 I can tell that i do reading and listening much better than writing :d.
 
 
@@ -38,6 +38,6 @@ I can tell that i do reading and listening much better than writing :d.
 ```
 
 # Education:
-Sofware Engineer, fourth year education
-C++ white belt (coursera)
+Sofware Engineer, fourth year education  
+C++ white belt (coursera)  
 Some Python, ML, Data Science, Linux basics, etc, courses (somewhere on the internet)
