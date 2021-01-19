@@ -172,11 +172,18 @@ h2 {
 }
 
 .code {
-    /* padding-top: 10px; */
+    padding-top: 10px;
     min-height: 140px;
-    /* padding-bottom: ; */
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url("img/bg/code-bg.png");
+    background-color: rgba(5, 5, 5,0.9); 
+}
+
+.js-code {
+    font-size: 15px;
+}
+
+.education__items li {
+    padding-bottom: 10px;
 }
