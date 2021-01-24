@@ -1,1 +1,1 @@
-https://techhadera.github.io/rsschool-cv/cv
+https://techadera.github.io/rsschool-cv
